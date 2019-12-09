@@ -84,7 +84,7 @@
     "nightwatch": "^0.9.19",
     "node-resemble-js": "^0.2.0",
     "rimraf": "^2.6.2",
-    "selenium-standalone": "^6.12.0",
+    "selenium-standalone": "^6.17.0",
     "standard": "^10.0.3",
     "uglifyjs-webpack-plugin": "^1.1.6",
     "webpack": "^3.10.0",
