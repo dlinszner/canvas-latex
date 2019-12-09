@@ -79,7 +79,7 @@
     "jest-canvas-mock": "^1.1.0",
     "js-yaml": "^3.10.0",
     "less": "^3.8.1",
-    "make-coverage-badge": "^1.0.1",
+    "make-coverage-badge": "^1.2.0",
     "mkdirp": "^0.5.1",
     "nightwatch": "^0.9.19",
     "node-resemble-js": "^0.2.0",
