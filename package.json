@@ -71,7 +71,7 @@
     "babel-loader": "^7.1.2",
     "babel-preset-env": "^1.6.1",
     "browserstack-local": "^1.4.2",
-    "colors": "^1.1.2",
+    "colors": "^1.4.0",
     "cpx": "^1.5.0",
     "deepmerge": "^2.0.1",
     "gm": "^1.23.0",
